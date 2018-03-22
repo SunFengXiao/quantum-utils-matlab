@@ -1,4 +1,4 @@
-function b = ishermitian(A, thresh)
+function b = isithermitian(A, thresh)
     % Tests whether A is a Hermitian matrix
     %
     % Arguments:
